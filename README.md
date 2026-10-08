@@ -1,5 +1,5 @@
 # oneAPI Samples
-
+# 请注意本示例已迁移至 Altera 的 hls-samples 仓库
 The oneAPI-samples repository contains samples for the [Intel® oneAPI Toolkits](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html).
 
 The contents of the default branch in this repository are meant to be used with the most recent released version of the Intel® oneAPI Toolkits.
